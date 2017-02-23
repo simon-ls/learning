@@ -1,3 +1,5 @@
+# Magento 1
+
 ## 1. MVC
 ### MVC
 * Configuration-based MVC system (not a convention-based system)
