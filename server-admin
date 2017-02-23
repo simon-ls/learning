@@ -1,0 +1,8 @@
+## Server
+
+View free memory: 
+`free -mh`
+
+## Apache
+
+List all vhosts: `httpd -S`
